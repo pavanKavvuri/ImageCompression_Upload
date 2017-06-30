@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Nashik City Police</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Crime_Array">
+
+
+        <item>Traffic</item>
+        <item>Medical Emergency</item>
+        <item>Fire</item>
+        <item>Crime(Critical)</item>
+        <item>Road accident</item>
+        <item>Suspects/Wanted</item>
+        <item>Prohibition</item>
+        <item>Encroachment</item>
+        <item>Infringement/Violation</item>
+        <item>Illegal parking</item>
+
+
+        <item>Stampede</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string name="title_activity_notify">Lets get Notified</string>
+    <string name="large_text">
+
+    </string>
+    <string name="title_activity_feedback">feedback</string>
+    <string name="title_activity_login">Nashik Police App</string>
+    <string name="title_activity_imp__contacts">Imp_Contacts</string>
+    <string name="title_activity_static__contacts">Static_Contacts</string>
+    <string name="YES">Yes</string>
+    <string name="NO">No</string>
+
+    <string name="leave_application">Yes</string>
+
+</resources>
